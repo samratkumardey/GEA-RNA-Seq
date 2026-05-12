@@ -82,7 +82,7 @@ conda init bash && source ~/.bashrc
 
 ### 3. Navigate to project (WSL2 mounts Windows drives at /mnt/)
 ```bash
-cd /mnt/c/Users/arpit/Desktop/Genomics_project
+cd /mnt/c/Users/Desktop/Genomics_project
 ```
 
 ### 4. Run setup (one-time — installs all tools, downloads genome)
@@ -105,7 +105,7 @@ bash scripts/run_pipeline.sh --from 5   # run steps 5 through 7
 ### R scripts can also be run from RStudio (Windows)
 ```r
 # Open RStudio on Windows, set working directory to project root:
-setwd("C:/Users/arpit/Desktop/Genomics_project")
+setwd("C:/Users/Desktop/Genomics_project")
 source("scripts/05_deseq2_analysis.R")
 source("scripts/06_enrichment_analysis.R")
 source("scripts/07_visualization_report.R")
