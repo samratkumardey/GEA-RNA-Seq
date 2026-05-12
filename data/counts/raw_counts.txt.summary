@@ -1,0 +1,15 @@
+Status	/mnt/c/Users/arpit/Desktop/Genomics_project/data/aligned/NC_6.sorted.bam	/mnt/c/Users/arpit/Desktop/Genomics_project/data/aligned/NC_5.sorted.bam	/mnt/c/Users/arpit/Desktop/Genomics_project/data/aligned/NC_4.sorted.bam	/mnt/c/Users/arpit/Desktop/Genomics_project/data/aligned/NC_3.sorted.bam	/mnt/c/Users/arpit/Desktop/Genomics_project/data/aligned/NC_1.sorted.bam	/mnt/c/Users/arpit/Desktop/Genomics_project/data/aligned/D2_6.sorted.bam	/mnt/c/Users/arpit/Desktop/Genomics_project/data/aligned/D2_4.sorted.bam	/mnt/c/Users/arpit/Desktop/Genomics_project/data/aligned/D2_3.sorted.bam	/mnt/c/Users/arpit/Desktop/Genomics_project/data/aligned/D2_2.sorted.bam	/mnt/c/Users/arpit/Desktop/Genomics_project/data/aligned/D2_1.sorted.bam	/mnt/c/Users/arpit/Desktop/Genomics_project/data/aligned/D1_5.sorted.bam	/mnt/c/Users/arpit/Desktop/Genomics_project/data/aligned/D1_4.sorted.bam	/mnt/c/Users/arpit/Desktop/Genomics_project/data/aligned/D1_3.sorted.bam	/mnt/c/Users/arpit/Desktop/Genomics_project/data/aligned/D1_2.sorted.bam	/mnt/c/Users/arpit/Desktop/Genomics_project/data/aligned/D1_1.sorted.bam
+Assigned	21502368	20865696	21451940	19494492	23333816	18764404	24910363	19670096	21086003	21069492	17230669	15660556	15344657	14230235	15598174
+Unassigned_Unmapped	2268850	905023	737534	719159	1054350	613493	1297311	717369	916620	968128	775227	761666	1175233	650909	855722
+Unassigned_Read_Type	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Singleton	2801594	2525866	2338171	2406400	3090730	2363280	2944739	2821410	2340507	2379355	2479646	2563922	2269279	2279399	2646631
+Unassigned_MappingQuality	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Chimera	246655	336394	192523	215861	358932	188383	335937	199980	347508	157750	282324	278584	164686	197277	199649
+Unassigned_FragmentLength	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Duplicate	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_MultiMapping	4907728	4651515	3922260	4921708	5758099	2927438	4505810	4528744	3554199	3693998	2225422	2233369	2628122	2035796	2280218
+Unassigned_Secondary	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_NonSplit	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_NoFeatures	14320734	12329071	12963411	13344292	11476152	18176523	14914280	14309695	14305007	16982095	20742879	22635007	20704953	22330311	23259340
+Unassigned_Overlapping_Length	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Ambiguity	4377354	4201407	3889186	3809726	5902040	2577092	5209356	2790601	3707781	2774887	1806674	1683779	1799356	1544820	1663811
